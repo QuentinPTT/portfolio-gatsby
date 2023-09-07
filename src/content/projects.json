@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Ingely",
+    "date": "2018-01-01",
+    "description": "An innovative platform that uses interactive courses to enhance knowledge absorption.",
+    "link": "https://ingely.com",
+    "image": "blank.jpg",
+    "techs": [
+      {
+        "name": "React Native",
+        "link": "https://facebook.github.io/react-native/",
+        "icon": "reactjs",
+        "color": "#61dafb"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Play",
+        "link": "https://ingely.com",
+        "icon": "play"
+      }
+    ]
+  },
+  {
+    "title": "Portfolio",
+    "date": "2018-01-01",
+    "description": "My current personal and professional page made with Gatsby.",
+    "link": "https://quentinptt.fr/",
+    "image": "portfolio.jpg",
+    "techs": [
+      {
+        "name": "Gatsby",
+        "link": "https://www.gatsbyjs.com/",
+        "icon": "gatsby",
+        "color": "#744C9E"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Play",
+        "link": "https://quentinptt.fr/",
+        "icon": "play"
+      },
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/portfolio",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Search Bar",
+    "date": "2018-01-01",
+    "description": "A lightweight, user-friendly search bar built in pure JavaScript, directly linked to a JSON data file.",
+    "link": "https://github.com/QuentinPTT/search-car-bar",
+    "image": "searchbar.gif",
+    "techs": [
+      {
+        "name": "JavaScript",
+        "link": "https://developer.mozilla.org/fr/docs/Web/JavaScript",
+        "icon": "javascript",
+        "color": "#F5DE19"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/search-car-bar",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Car Identifier",
+    "date": "2018-01-01",
+    "description": "Car-Identifier uses a refined VGG16 model and Flask to identify car makes and models from downloaded images.",
+    "link": "https://github.com/QuentinPTT/car-identifier",
+    "image": "car_identifier.png",
+    "techs": [
+      {
+        "name": "Flask",
+        "link": "https://flask.palletsprojects.com/en/2.3.x/",
+        "icon": "flask",
+        "color": "#FFF"
+      },
+      {
+        "name": "Keras",
+        "link": "https://keras.io/",
+        "icon": "keras",
+        "color": "#D00000"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/car-identifier",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Philo Flash",
+    "date": "2018-01-01",
+    "description": "A responsive, customizable React-based web application presenting concise biographies of famous philosophers stored in JSON.",
+    "link": "https://github.com/QuentinPTT/react-philosopher-wiki",
+    "image": "react_philosophie.png",
+    "techs": [
+      {
+        "name": "React",
+        "link": "https://facebook.github.io/react-native/",
+        "icon": "reactjs",
+        "color": "#61dafb"
+      },
+      {
+        "name": "Json",
+        "link": "https://www.json.org/json-en.html",
+        "icon": "json",
+        "color": "#7d7d7d"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/react-philosopher-wiki",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "LMS - ISAE-Supmeca",
+    "date": "2018-01-01",
+    "description": "A quick and efficient Flask application that simplifies access to my school's online portal.",
+    "link": "https://github.com/QuentinPTT/notes-supmeca",
+    "image": "notes_supmeca.png",
+    "techs": [
+      {
+        "name": "Flask",
+        "link": "https://flask.palletsprojects.com/en/2.3.x/",
+        "icon": "flask",
+        "color": "#FFF"
+      },
+      {
+        "name": "API",
+        "link": "https://fr.wikipedia.org/wiki/Interface_de_programmation",
+        "icon": "api",
+        "color": "#FFF"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/notes-supmeca",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Scroll around Cars",
+    "date": "2018-01-01",
+    "description": "A web application offering a seamless scrolling experience to explore all the angles of a car.",
+    "link": "https://github.com/QuentinPTT/scroll-around-cars",
+    "image": "scroll_around_cars.gif",
+    "techs": [
+      {
+        "name": "JavaScript",
+        "link": "https://developer.mozilla.org/fr/docs/Web/javascript",
+        "icon": "javascript",
+        "color": "#F5DE19"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/scroll-around-cars",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Twitter Without Views",
+    "date": "2018-01-01",
+    "description": "Javascript Chrome extension to disable the Twitter view counter.",
+    "link": "https://github.com/QuentinPTT/twitter-without-views",
+    "image": "twv.jpg",
+    "techs": [
+      {
+        "name": "JavaScript",
+        "link": "https://developer.mozilla.org/fr/docs/Web/javascript",
+        "icon": "javascript",
+        "color": "#F5DE19"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/twitter-without-views",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Just Think It",
+    "date": "2018-01-01",
+    "description": "Interpreting EEG waves to help people with motor disabilities become more independent.",
+    "link": "https://github.com/QuentinPTT/just-think-it",
+    "image": "just_think_it.gif",
+    "techs": [
+      {
+        "name": "JavaScript",
+        "link": "https://developer.mozilla.org/fr/docs/Web/javascript",
+        "icon": "javascript",
+        "color": "#F5DE19"
+      },
+      {
+        "name": "Python",
+        "link": "https://www.python.org/",
+        "icon": "python",
+        "color": "#249CFF"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/just-think-it",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Interactive Map",
+    "date": "2018-01-01",
+    "description": "Map of the world and continents, with comments on each country.",
+    "link": "",
+    "image": "map_project.gif",
+    "techs": [
+      {
+        "name": "HTML",
+        "link": "https://developer.mozilla.org/fr/docs/Web/HTML",
+        "icon": "html",
+        "color": "#F16529"
+      },
+      {
+        "name": "CSS",
+        "link": "https://developer.mozilla.org/fr/docs/Web/css",
+        "icon": "css",
+        "color": "#249CFF"
+      },
+      {
+        "name": "JavaScript",
+        "link": "https://developer.mozilla.org/fr/docs/Web/javascript",
+        "icon": "javascript",
+        "color": "#F5DE19"
+      }
+    ],
+    "featured": []
+  },
+  {
+    "title": "Scraping LaCentrale",
+    "date": "2018-01-01",
+    "description": "Python script to access LaCentrale's private API to retrieve all ads matching user-defined criteria.",
+    "link": "https://github.com/QuentinPTT/lacentrale-api",
+    "image": "scraping_lacentrale.jpg",
+    "techs": [
+      {
+        "name": "Python",
+        "link": "https://www.python.org/",
+        "icon": "python",
+        "color": "#249CFF"
+      },
+      {
+        "name": "API",
+        "link": "https://fr.wikipedia.org/wiki/Interface_de_programmation",
+        "icon": "api",
+        "color": "#FFF"
+      }
+    ],
+    "featured": [
+      {
+        "name": "Github",
+        "link": "https://github.com/QuentinPTT/lacentrale-api",
+        "icon": "github"
+      }
+    ]
+  },
+  {
+    "title": "Robot Arm",
+    "date": "2018-01-01",
+    "description": "Creation of a 3-dimensional articulated arm using numerous servomotors.",
+    "link": "",
+    "image": "arm.jpg",
+    "techs": [
+      {
+        "name": "Arduino",
+        "link": "https://www.arduino.cc/",
+        "icon": "arduino",
+        "color": "#00979c"
+      }
+    ],
+    "featured": []
+  }
+  
+]

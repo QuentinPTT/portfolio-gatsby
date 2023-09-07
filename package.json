@@ -1,8 +1,8 @@
 {
-  "name": "my-gatsby-site",
+  "name": "quentinptt",
   "version": "1.0.0",
   "private": true,
-  "description": "my-gatsby-site",
+  "description": "quentinptt",
   "author": "QuentinPTT",
   "keywords": [
     "gatsby"
@@ -15,9 +15,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource/poppins": "^5.0.8",
     "autoprefixer": "^10.4.15",
     "gatsby": "^5.11.0",
     "gatsby-plugin-postcss": "^6.11.0",
+    "gatsby-plugin-react-svg": "^3.3.0",
+    "gatsby-source-filesystem": "^5.11.0",
+    "gatsby-transformer-remark": "^6.11.0",
     "postcss": "^8.4.28",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

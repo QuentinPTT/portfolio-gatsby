@@ -1,0 +1,16 @@
+.articleContainer h1 {
+    @apply text-4xl font-bold;
+}
+
+.articleContainer h3{
+    @apply text-2xl font-bold mb-2 text-gray-400
+}
+
+.articleContainer p {
+    @apply mb-4;
+}
+
+.articleContainer blockquote p {
+    @apply text-center italic text-gray-500;
+}
+  
